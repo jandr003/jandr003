@@ -16,43 +16,28 @@
 
 Frontend, mobile, backend, and deployment technologies I use to build modern web and mobile applications.
 
-### Frontend
+### Languages
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,dart,java" alt="Languages">
 
 ### Frameworks & Libraries
 
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" alt="Frameworks and libraries">
 
-### Mobile Development
+### Backend, Hosting & Deployment
 
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Backend & Database
-
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jinja](https://img.shields.io/badge/JINJA-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-
-### Hosting & Deployment
-
-![Netlify](https://img.shields.io/badge/NETLIFY-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Backend hosting and deployment">
 
 ### Tools
 
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/CODEX-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Tools">
+
+<br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja">
 
 ---
 
