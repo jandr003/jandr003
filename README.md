@@ -14,7 +14,7 @@
 
 ## My Skills
 
-Frontend, mobile, backend, and deployment technologies I use to build modern applications.
+Frontend, mobile, backend, and deployment technologies I use to build modern web and mobile applications.
 
 ### Frontend
 
