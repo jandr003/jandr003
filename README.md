@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./jandr003-profile.gif" width="100%" alt="John Andrew banner">
+<img src="https://raw.githubusercontent.com/jandr003/jandr003/main/jandr003-profile.gif?v=2" width="100%" alt="John Andrew banner">
 
 # Hi, I'm John Andrew 👋
 
