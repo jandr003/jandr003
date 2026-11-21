@@ -73,3 +73,31 @@ I am a passionate learner who enjoys exploring technology, building projects, an
 </a>
 
 </div>
+
+---
+
+## Technology Licenses
+
+| Technology | License |
+|---|---|
+| HTML5 | Web Standard |
+| CSS3 | Web Standard |
+| JavaScript | ECMA-262 |
+| Dart | BSD 3-Clause |
+| Java | GPL v2 + Classpath Exception |
+| Next.js | MIT |
+| React | MIT |
+| Tailwind CSS | MIT |
+| Flutter | BSD 3-Clause |
+| Firebase SDK | Apache 2.0 |
+| Jinja | BSD 3-Clause |
+| Git | GPL v2 |
+| VS Code | MIT |
+| Netlify | Proprietary Service Terms |
+| Vercel | Proprietary Service Terms |
+| Android Studio | Proprietary License |
+| Canva | Proprietary Service Terms |
+| Claude | Proprietary Service Terms |
+| Codex | Proprietary Service Terms |
+| Figma | Proprietary Service Terms |
+| GitHub | Proprietary Service Terms |
