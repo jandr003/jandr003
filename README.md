@@ -12,9 +12,63 @@
 
 ---
 
-## My Skills
+## About Me
 
-Frontend, mobile, backend, and deployment technologies I use to build modern web and mobile applications.
+I am a developer focused on building practical web and mobile applications with clean interfaces, reliable functionality, and thoughtful user experiences.
+
+I enjoy transforming ideas into useful digital products while continuously improving my skills across development, design, and deployment.
+
+---
+
+## Services
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Mobile Application Development
+
+I develop practical Android and cross-platform applications with clean interfaces, reliable functionality, and smooth user interactions.
+
+**Core stack:** Java · Dart · Flutter · Android Studio
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Web Development
+
+I create responsive web experiences that are structured, accessible, and optimized for modern browsers and different screen sizes.
+
+**Core stack:** HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 · UI/UX Design
+
+I transform ideas into clear user flows and polished interfaces, balancing visual design with usability and consistency.
+
+**Tools:** Figma · Canva
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Backend & Data Integration
+
+I connect applications to reliable backend services and structured data workflows for scalable and maintainable solutions.
+
+**Core stack:** Firebase · Jinja · Netlify · Vercel
+
+</td>
+</tr>
+</table>
+
+---
+
+## My Stack
 
 ### Languages
 
@@ -30,39 +84,29 @@ Frontend, mobile, backend, and deployment technologies I use to build modern web
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Tools">
+<img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Development tools">
 
 <br>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja">
+<img src="https://skillicons.dev/icons?i=canva,claude,openai,jinja" alt="Additional tools">
 
 ---
 
-## About Me
-
-I am a passionate learner who enjoys exploring technology, building projects, and improving my programming skills.
-
-- Building web and mobile applications
-- Exploring modern development tools
-- Learning new technologies every day
-- Turning ideas into working projects
-
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6" height="180" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=ff4da6" height="180" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=ff4da6" height="180" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="GitHub streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="GitHub contribution streak">
 
 </div>
+
+---
 
 ## Connect With Me
 
