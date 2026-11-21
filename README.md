@@ -10,15 +10,11 @@
 
 </div>
 
----
-
 ## About Me
 
 I am a developer focused on building practical web and mobile applications with clean interfaces, reliable functionality, and thoughtful user experiences.
 
 I enjoy transforming ideas into useful digital products while continuously improving my skills across development, design, and deployment.
-
----
 
 ## Services
 
@@ -66,8 +62,6 @@ I connect applications to reliable backend services and structured data workflow
 </tr>
 </table>
 
----
-
 ## My Stack
 
 ### Languages
@@ -90,8 +84,6 @@ I connect applications to reliable backend services and structured data workflow
 
 <img src="https://skillicons.dev/icons?i=canva,claude,openai,jinja" alt="Additional tools">
 
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -105,8 +97,6 @@ I connect applications to reliable backend services and structured data workflow
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="GitHub contribution streak">
 
 </div>
-
----
 
 ## Connect With Me
 
