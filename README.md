@@ -1,104 +1,74 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jandr003/jandr003/main/jandr003-profile.png?v=3" width="100%" alt="John Andrew banner">
+<img src="https://raw.githubusercontent.com/jandr003/jandr003/main/jandr003-profile.png?v=3" width="100%" alt="John Andrew profile banner">
 
-# Hi, I'm John Andrew 👋
+# John Andrew
 
-### A Web Developer in Making
+### Web & Mobile Developer
+
+Building practical digital products through thoughtful design, reliable development, and continuous learning.
 
 <img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views">
 
 </div>
 
-### About Me
+### Profile
 
-I am a developer focused on building practical web and mobile applications with clean interfaces, reliable functionality, and thoughtful user experiences.
+I am a developer interested in creating modern web and mobile applications that are functional, accessible, and easy to use.
 
-I enjoy transforming ideas into useful digital products while continuously improving my skills across development, design, and deployment.
+My work combines interface design, application development, backend integration, and deployment. I focus on turning ideas into clear, maintainable, and useful digital experiences.
 
-### Services
+### What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Web Development**  
+Responsive websites and web applications built with modern frontend technologies.
 
-#### 01 · Mobile Application Development
+**Mobile Development**  
+Android and cross-platform applications designed around practical user needs.
 
-I develop practical Android and cross-platform applications with clean interfaces, reliable functionality, and smooth user interactions.
+**Interface Design**  
+Clean UI layouts and user flows focused on clarity, consistency, and usability.
 
-**Core stack:** Java · Dart · Flutter · Android Studio
+**Backend Integration**  
+Application data, services, and deployment workflows connected through reliable tools.
 
-</td>
-<td width="50%" valign="top">
-
-#### 02 · Web Development
-
-I create responsive web experiences that are structured, accessible, and optimized for modern browsers and different screen sizes.
-
-**Core stack:** HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 03 · UI/UX Design
-
-I transform ideas into clear user flows and polished interfaces, balancing visual design with usability and consistency.
-
-**Tools:** Figma · Canva
-
-</td>
-<td width="50%" valign="top">
-
-#### 04 · Backend Development
-
-I connect applications to reliable backend services and structured data workflows for scalable and maintainable solutions.
-
-**Core stack:** Firebase · Jinja · Netlify · Vercel
-
-</td>
-</tr>
-</table>
-
-### My Stack
+### Technology
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,java" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,js,dart,java" alt="HTML CSS JavaScript Dart Java">
 
-#### Frameworks & Libraries
+#### Frameworks
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" alt="Frameworks and libraries">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" alt="Next.js React Tailwind CSS Flutter">
 
-#### Backend, Hosting & Deployment
+#### Backend & Deployment
 
-<img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Backend hosting and deployment">
+<img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Firebase Netlify Vercel">
 
-#### Tools
+#### Development Tools
 
-<img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Development tools">
+<img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Android Studio Figma GitHub VS Code Git">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=canva,claude,openai,jinja" alt="Additional tools">
+<img src="https://skillicons.dev/icons?i=canva,claude,openai,jinja" alt="Canva Claude OpenAI Jinja">
 
-### GitHub Statistics
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6" height="180" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6" height="170" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=ff4da6" height="180" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=ff4da6" height="170" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="GitHub contribution streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="Contribution streak">
 
 </div>
 
-### Connect With Me
+### Connect
 
 <div align="center">
 
