@@ -10,9 +10,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Profile_Views-28-00D9A6?style=for-the-badge" alt="28 profile views">
-<img src="https://img.shields.io/badge/Public_Repositories-8-7B61FF?style=for-the-badge" alt="8 public repositories">
-<img src="https://img.shields.io/badge/Commits_This_Month-614-FF4DA6?style=for-the-badge" alt="614 commits this month">
+<img src="https://img.shields.io/badge/Profile_Views-28-00D9A6?style=for-the-badge&labelColor=21262D&logo=eye&logoColor=white" alt="28 profile views">
+
+<img src="https://img.shields.io/badge/Public_Repositories-8-7B61FF?style=for-the-badge&labelColor=21262D&logo=github&logoColor=white" alt="8 public repositories">
+
+<img src="https://img.shields.io/badge/Commits_This_Month-614-FF4DA6?style=for-the-badge&labelColor=21262D&logo=git&logoColor=white" alt="614 commits this month">
 
 </div>
 
