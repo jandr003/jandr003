@@ -8,7 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Building+web+and+mobile+projects;Designing+clear+user+experiences;Turning+ideas+into+working+products" alt="Typing animation">
 
-<img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=00D9A6&style=flat-square" alt="Profile views">
+<br>
+
+<img src="https://img.shields.io/badge/Profile_Views-28-00D9A6?style=for-the-badge" alt="28 profile views">
+<img src="https://img.shields.io/badge/Public_Repositories-8-7B61FF?style=for-the-badge" alt="8 public repositories">
+<img src="https://img.shields.io/badge/Commits_This_Month-614-FF4DA6?style=for-the-badge" alt="614 commits this month">
 
 </div>
 
@@ -18,17 +22,41 @@ I build web and mobile projects with a focus on clear interfaces and reliable fu
 
 ### What I Do
 
-**Web Development**  
-Responsive websites and web applications built with modern frontend tools.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Mobile Development**  
-Android and cross-platform applications focused on practical user experiences.
+#### Web Development
 
-**UI/UX Design**  
-Simple, organized interfaces designed around real user needs.
+Responsive websites and web applications built with modern frontend tools, clean layouts, and accessible interactions.
 
-**Backend Integration**  
-Connecting applications to backend services, data, and deployment platforms.
+</td>
+<td width="50%" valign="top">
+
+#### Mobile Development
+
+Android and cross-platform applications focused on practical features, smooth flows, and reliable performance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### UI/UX Design
+
+Simple and organized interfaces designed around real user needs, clear navigation, and consistent visual structure.
+
+</td>
+<td width="50%" valign="top">
+
+#### Backend Integration
+
+Connecting applications to backend services, structured data, and deployment platforms.
+
+</td>
+</tr>
+</table>
 
 ### Technology
 
@@ -44,7 +72,7 @@ Connecting applications to backend services, data, and deployment platforms.
 
 <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Firebase Netlify Vercel">
 
-#### Tools
+#### Development Tools
 
 <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Android Studio Figma GitHub VS Code Git">
 
