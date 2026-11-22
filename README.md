@@ -1,36 +1,60 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jandr003/jandr003/main/jandr003-profile.png?v=3" width="100%" alt="John Andrew profile banner">
+<img src="https://raw.githubusercontent.com/jandr003/jandr003/main/jandr003-profile.png?v=3" width="100%" alt="John Andrew banner">
 
 # John Andrew
 
 ### Web & Mobile Developer
 
-Building practical digital products through thoughtful design, reliable development, and continuous learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Designing+clean+digital+experiences;Building+web+and+mobile+applications;Turning+ideas+into+working+products" alt="Typing animation">
 
-<img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views">
+<a href="https://github.com/jandr003">
+  <img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=00D9A6&style=flat-square" alt="Profile views">
+</a>
 
 </div>
 
-### Profile
+### About
 
-I am a developer interested in creating modern web and mobile applications that are functional, accessible, and easy to use.
+I build digital experiences that are clear, useful, and easy to interact with.
 
-My work combines interface design, application development, backend integration, and deployment. I focus on turning ideas into clear, maintainable, and useful digital experiences.
+My work sits between **development and design**: creating responsive web interfaces, mobile applications, backend integrations, and practical solutions from the first idea to deployment.
 
-### What I Do
+### What I Build
 
-**Web Development**  
-Responsive websites and web applications built with modern frontend technologies.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Mobile Development**  
-Android and cross-platform applications designed around practical user needs.
+#### Web Experiences
 
-**Interface Design**  
-Clean UI layouts and user flows focused on clarity, consistency, and usability.
+Responsive websites and web applications with modern frontend tools, structured layouts, and accessible interactions.
 
-**Backend Integration**  
-Application data, services, and deployment workflows connected through reliable tools.
+</td>
+<td width="33%" valign="top">
+
+#### Mobile Applications
+
+Android and cross-platform applications focused on smooth flows, useful features, and reliable performance.
+
+</td>
+<td width="33%" valign="top">
+
+#### Digital Products
+
+Interfaces and backend integrations that turn concepts into complete, usable products.
+
+</td>
+</tr>
+</table>
+
+### Current Focus
+
+- Building responsive web applications
+- Developing Android and Flutter experiences
+- Improving UI/UX and interaction design
+- Connecting applications to reliable backend services
+- Learning through real projects and experimentation
 
 ### Technology
 
@@ -38,7 +62,7 @@ Application data, services, and deployment workflows connected through reliable 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,dart,java" alt="HTML CSS JavaScript Dart Java">
 
-#### Frameworks
+#### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" alt="Next.js React Tailwind CSS Flutter">
 
@@ -46,7 +70,7 @@ Application data, services, and deployment workflows connected through reliable 
 
 <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Firebase Netlify Vercel">
 
-#### Development Tools
+#### Tools
 
 <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Android Studio Figma GitHub VS Code Git">
 
@@ -58,13 +82,13 @@ Application data, services, and deployment workflows connected through reliable 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6" height="170" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=00D9A6&icon_color=00D9A6" height="170" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=ff4da6" height="170" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=00D9A6" height="170" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" alt="Contribution streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6" alt="Contribution streak">
 
 </div>
 
