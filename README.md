@@ -10,19 +10,19 @@
 
 </div>
 
-## About Me
+### About Me
 
 I am a developer focused on building practical web and mobile applications with clean interfaces, reliable functionality, and thoughtful user experiences.
 
 I enjoy transforming ideas into useful digital products while continuously improving my skills across development, design, and deployment.
 
-## Services
+### Services
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Mobile Application Development
+#### 01 · Mobile Application Development
 
 I develop practical Android and cross-platform applications with clean interfaces, reliable functionality, and smooth user interactions.
 
@@ -31,7 +31,7 @@ I develop practical Android and cross-platform applications with clean interface
 </td>
 <td width="50%" valign="top">
 
-### 02 · Web Development
+#### 02 · Web Development
 
 I create responsive web experiences that are structured, accessible, and optimized for modern browsers and different screen sizes.
 
@@ -43,7 +43,7 @@ I create responsive web experiences that are structured, accessible, and optimiz
 <tr>
 <td width="50%" valign="top">
 
-### 03 · UI/UX Design
+#### 03 · UI/UX Design
 
 I transform ideas into clear user flows and polished interfaces, balancing visual design with usability and consistency.
 
@@ -52,7 +52,7 @@ I transform ideas into clear user flows and polished interfaces, balancing visua
 </td>
 <td width="50%" valign="top">
 
-### 04 · Backend Development
+#### 04 · Backend Development
 
 I connect applications to reliable backend services and structured data workflows for scalable and maintainable solutions.
 
@@ -62,21 +62,21 @@ I connect applications to reliable backend services and structured data workflow
 </tr>
 </table>
 
-## My Stack
+### My Stack
 
-### Languages
+#### Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,dart,java" alt="Languages">
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" alt="Frameworks and libraries">
 
-### Backend, Hosting & Deployment
+#### Backend, Hosting & Deployment
 
 <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Backend hosting and deployment">
 
-### Tools
+#### Tools
 
 <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,vscode,git" alt="Development tools">
 
@@ -84,7 +84,7 @@ I connect applications to reliable backend services and structured data workflow
 
 <img src="https://skillicons.dev/icons?i=canva,claude,openai,jinja" alt="Additional tools">
 
-## GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I connect applications to reliable backend services and structured data workflow
 
 </div>
 
-## Connect With Me
+### Connect With Me
 
 <div align="center">
 
