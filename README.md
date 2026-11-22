@@ -6,55 +6,29 @@
 
 ### Web & Mobile Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Designing+clean+digital+experiences;Building+web+and+mobile+applications;Turning+ideas+into+working+products" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Building+web+and+mobile+projects;Designing+clear+user+experiences;Turning+ideas+into+working+products" alt="Typing animation">
 
-<a href="https://github.com/jandr003">
-  <img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=00D9A6&style=flat-square" alt="Profile views">
-</a>
+<img src="https://komarev.com/ghpvc/?username=jandr003&label=Profile%20Views&color=00D9A6&style=flat-square" alt="Profile views">
 
 </div>
 
-### About
+### About Me
 
-I build digital experiences that are clear, useful, and easy to interact with.
+I build web and mobile projects with a focus on clear interfaces and reliable functionality. I enjoy taking rough ideas and turning them into products people can actually use.
 
-My work sits between **development and design**: creating responsive web interfaces, mobile applications, backend integrations, and practical solutions from the first idea to deployment.
+### What I Do
 
-### What I Build
+**Web Development**  
+Responsive websites and web applications built with modern frontend tools.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Mobile Development**  
+Android and cross-platform applications focused on practical user experiences.
 
-#### Web Experiences
+**UI/UX Design**  
+Simple, organized interfaces designed around real user needs.
 
-Responsive websites and web applications with modern frontend tools, structured layouts, and accessible interactions.
-
-</td>
-<td width="33%" valign="top">
-
-#### Mobile Applications
-
-Android and cross-platform applications focused on smooth flows, useful features, and reliable performance.
-
-</td>
-<td width="33%" valign="top">
-
-#### Digital Products
-
-Interfaces and backend integrations that turn concepts into complete, usable products.
-
-</td>
-</tr>
-</table>
-
-### Current Focus
-
-- Building responsive web applications
-- Developing Android and Flutter experiences
-- Improving UI/UX and interaction design
-- Connecting applications to reliable backend services
-- Learning through real projects and experimentation
+**Backend Integration**  
+Connecting applications to backend services, data, and deployment platforms.
 
 ### Technology
 
