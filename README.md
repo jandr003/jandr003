@@ -6,13 +6,13 @@
 
 ### Web & Mobile Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Building+web+and+mobile+projects;Designing+clear+user+experiences;Turning+ideas+into+working+products" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+web+and+mobile+projects;Designing+clear+user+experiences;Turning+ideas+into+working+products" alt="Typing animation">
 
 <br>
 
-<img src="https://img.shields.io/badge/Profile_Views-28-00D9A6?style=for-the-badge" alt="28 profile views">
-<img src="https://img.shields.io/badge/Public_Repositories-8-7B61FF?style=for-the-badge" alt="8 public repositories">
-<img src="https://img.shields.io/badge/Commits_This_Month-614-FF4DA6?style=for-the-badge" alt="614 commits this month">
+<img src="https://img.shields.io/badge/Profile_Views-28-1F6FEB?style=for-the-badge" alt="28 profile views">
+<img src="https://img.shields.io/badge/Public_Repositories-8-2563EB?style=for-the-badge" alt="8 public repositories">
+<img src="https://img.shields.io/badge/Commits_This_Month-614-3B82F6?style=for-the-badge" alt="614 commits this month">
 
 </div>
 
@@ -84,13 +84,13 @@ Connecting applications to backend services, structured data, and deployment pla
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&theme=radical&hide_border=true&title_color=00D9A6&icon_color=00D9A6" height="170" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=jandr003&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB&hide_border=false" height="180" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true&title_color=00D9A6" height="170" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandr003&layout=compact&theme=radical&hide_border=true" height="180" alt="Most used languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&theme=radical&hide_border=true&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6" alt="Contribution streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jandr003&background=0D1117&border=1F6FEB&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&currStreakNum=F0F6FC&sideNums=58A6FF&sideLabels=8B949E&dates=8B949E&hide_border=false" alt="GitHub contribution streak">
 
 </div>
 
@@ -99,7 +99,7 @@ Connecting applications to backend services, structured data, and deployment pla
 <div align="center">
 
 <a href="https://github.com/jandr003">
-  <img src="https://img.shields.io/badge/GitHub-jandr003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  <img src="https://img.shields.io/badge/GitHub-jandr003-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub profile">
 </a>
 
 </div>
